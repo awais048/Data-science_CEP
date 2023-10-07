@@ -1,10 +1,11 @@
-Group Members
+# Group Members
+
 Awais 20SW048
 Asad 20SW048
 
-Title: Unraveling Infectious Disease Dynamics: A Data-Driven Approach Towards Achieving Good Health and Well-being SDG
+# Title: Unraveling Infectious Disease Dynamics: A Data-Driven Approach Towards Achieving Good Health and Well-being SDG
 
-Description:
+# Description:
 
 In this repository, we present an exhaustive exploration rooted in data science and analytics to specifically address the United Nations' Sustainable Development Goal (SDG) 3, which emphasizes Good Health and Well-being. Recognizing the pivotal role of data in today's digital age, our study dives deep into the spread and dynamics of infectious diseases. 
 
